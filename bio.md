@@ -10,6 +10,8 @@
 			<header>
 				<h2>Programming Background</h2>
 				1.  I've programmed a few games in game maker language.  Those were by far the most fun that I've had as a programmer.
+				<br>
+				2.  For work we had an engineering offsite teambuilding exercise, where we programmed a Lego robot to maneuver itself through a maze, and find an object and maneuver itself back to the start.  It was also very fun.
 			</header>
 		</body>
 	</html>
